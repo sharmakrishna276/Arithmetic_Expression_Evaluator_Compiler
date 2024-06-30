@@ -1,0 +1,6 @@
+zilh := (  ( 87 / 65 )  +  ( 2 / 22 )  ) 
+kdstka := (  ( 69 * zilh )  *  ( 50 * 2 )  ) 
+jaczi := (  ( kdstka + 1 )  / 7 ) 
+oaodi := kdstka
+gxym := (  ( 90 + jaczi )  +  ( 3 / oaodi )  ) 
+ret := ( ( kdstka * oaodi ) / (  kdstka  *  gxym  )  )
